@@ -20,6 +20,10 @@ Anaconda - Python 3.7
 ## PROGRAM:
 
 ```
+'''
+Developed by: Naveen M
+Reference number: 22000748
+'''
 num_words=0
 with open('text.txt','r') as f1:         
     for i in f1:
@@ -30,7 +34,7 @@ print("Number of words in a file = {}".format(num_words))
 
 ### OUTPUT:
 
-![Screenshot from 2023-01-20 11-25-12](https://user-images.githubusercontent.com/117974950/213921077-3dc87178-e2bf-4f20-b5f4-2095e3a14214.png)
+![expa](https://user-images.githubusercontent.com/117974950/214609475-70c69d5d-a0f0-41b2-a511-6af3cca2bae4.png)
 
 
 ## RESULT:
